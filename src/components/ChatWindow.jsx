@@ -2,8 +2,8 @@ import React from "react";
 
 export default function ChatWindow() {
   return (
-    <div>
-      <h2>Magic Chat Socket</h2>
+    <div className="ChatWindow">
+      <h2>Magic Chat Socket Window</h2>
     </div>
   );
 }
